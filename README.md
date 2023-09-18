@@ -13,7 +13,7 @@ PORT=3001
 ```
 
 ## Usage
-
+  
 Send a request:
 
 ```text
@@ -26,4 +26,5 @@ params:
 
 ## Contributors
 
-Jacob Knaack
+- Jacob Knaack (original author)
+- Paul Brown (additional lab work)
